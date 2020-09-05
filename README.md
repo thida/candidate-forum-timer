@@ -14,7 +14,7 @@ These instructions have been tested on Macs and Windows PCs.
 * Open OBS (on Windows, it's called "OBS Studio", on Mac, simply "OBS").
 * Enable the virtual camera:
   * On Windows, go to the Tools menu and select VirtualCam, then click "Start". (You can check "AutoStart" as well so you don't do this in the future).
-  * On Mac, go to the Tools menu and select "Start Virtual Camera".
+  * On Mac, go to the Tools menu and select "Start Virtual Camera". Mac will also prompt you to change your privacy settimgs to allow OBS access.
 * Open the [timer](https://drjkl.github.io/candidate-forum-timer/) in your favorite browser
 * Configure the timer by setting the:
   * Logo
@@ -25,7 +25,7 @@ These instructions have been tested on Macs and Windows PCs.
 * Select the name of your browser window from the "Window" dropdown, then click OK.
   * Mac users: The first time you do this you may not see your browser listed at all, just OBS and the desktop. If this happens, check "Show Windows with empty names", then you should find one with the name of your browser. When you select it, macOS will ask you to grant OBS permissions to screen record. Follow its instructions to let OBS record your screen (you do not need to restart it).
 * Adjust and crop the display to your liking (in OBS, you can move the red outline rectangle to crop off parts of the window to hide the browser navigation, scroll bar, etc; and you can also resize the window in your browser or adjust the zoom/font size).
-* Go to Zoom's Video settings and you should see the OBS camera (Mac: OBS Virtual Camera, Windows: OBS-Camera), select it.
+* Go to Zoom's Video settings and you should see the OBS camera (Mac: OBS Virtual Camera, Windows: OBS-Camera), select it. Mac users, make sure you have the latest version of Zoom or OBS virtual cam won't work.
   * If you do not see the OBS camera in the dropdown (immediately after installation) restart Zoom and try again. 
   * If you have a virtual background you will need to disable it to see the timer page. 
   * You can also disable "mirror my video" here so you see the timer page in the correct direction (changing this does not impact how others see it; they will always see it correctly).
